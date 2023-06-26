@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @al3alema-Batata
-- 👀 I’m still looking what will my specialty be, bu
-- 🌱 I’m currently studying CS
+- 🌱 I’m currently trying to apply what I learned in java
 - 💞️ I’m looking to collaborate on anything begginer related
 
 <!---
