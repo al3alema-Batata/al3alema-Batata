@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al3alema-Batata
-- 🌱 I’m currently trying to apply what I learned in java
+- 🌱 I’m a third year CS student.
 - 💞️ I’m looking to collaborate on anything begginer related
 
 <!---
