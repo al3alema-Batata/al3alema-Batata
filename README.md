@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al3alema-Batata
-- 🌱 I’m CS third year student.
+- 🌱 I’m a third year CS student.
 - 💞️ I’m looking to collaborate on anything begginer related
 
 <!---
